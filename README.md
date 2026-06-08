@@ -1,133 +1,186 @@
 <h1 align="center">Hi 👋, I'm Dhikonda Gopi</h1>
 
 <h3 align="center">
-🚀 Cybersecurity Undergraduate | MERN Stack Developer | Full Stack Enthusiast
+🚀 Cybersecurity Undergraduate | MERN Stack Developer | Full Stack Developer | Open Source Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhikondagopi&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dhikondagopi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhikondagopi&theme=algolia&row=1&column=7" alt="trophies" />
+  <a href="https://github.com/dhikondagopi">
+    <img src="https://github-profile-trophy.vercel.app/?username=dhikondagopi&theme=algolia&no-frame=true&row=2&column=4" alt="trophies"/>
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech in Cybersecurity at Parul University
+🎓 B.Tech in Cybersecurity at **Parul University**
+
+💻 Passionate about:
+- Full Stack Development
+- Cybersecurity
+- AI-Powered Applications
+- Open Source Contributions
 
 🌱 Currently Learning:
+- Advanced MERN Stack
 - Data Structures & Algorithms
 - System Design
 - Cloud Computing
-- Advanced MERN Stack
 
-💻 Passionate About:
-- Full Stack Development
-- Cybersecurity
-- Open Source
-- AI Applications
+🚀 Goal:
+- Crack Product-Based Companies
+- Become a Full Stack Engineer
+- Contribute to Open Source
 
-🚀 Building Real-World Projects
+📫 Reach me at:
 
-📫 Reach Me:
 **dhikondagopinaidu@gmail.com**
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
+
 <a href="https://www.linkedin.com/in/gopidhikonda1/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="50" />
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
 </a>
 
+<a href="mailto:dhikondagopinaidu@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
+</a>
+
+<a href="https://github.com/dhikondagopi" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
+</a>
+
+</p>
+
+---
+
+# 🏆 Coding Profiles
+
+<p align="center">
+
 <a href="https://leetcode.com/u/dhikondagopi/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" width="50" />
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/dhikondagopinai1" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerrank" width="50" />
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/user/dhikondagc84y/" target="_blank">
-<img src="https://cdn.simpleicons.org/geeksforgeeks" width="50" />
+<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
 <a href="https://www.topcoder.com/members/522415" target="_blank">
-<img src="https://cdn.simpleicons.org/topcoder" width="50" />
+<img src="https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white"/>
 </a>
+
 </p>
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-### 🎤 InterviewX
-AI-powered interview preparation platform that helps students practice technical and HR interviews.
+## 🎤 InterviewX
 
-### 🌐 UpLink
-Professional networking and collaboration platform for students and professionals.
+AI-powered interview preparation platform helping students practice technical and HR interviews.
 
-### 🍽️ Restaurant Website
-Modern responsive restaurant management and ordering platform.
+### Tech Stack
+React • Node.js • Express • MongoDB
 
 ---
 
-## 💻 Tech Stack
+## 🌐 UpLink
+
+Professional networking and collaboration platform for students and developers.
+
+### Tech Stack
+React • Node.js • MongoDB • Tailwind CSS
+
+---
+
+## 🍽️ Restaurant Website
+
+Responsive restaurant management and ordering system.
+
+### Tech Stack
+React • JavaScript • CSS
+
+---
+
+## 🛡️ AI Honeypot CyberHive
+
+AI-powered cybersecurity honeypot for attack detection and analysis.
+
+### Tech Stack
+Python • Flask • AI • Security Monitoring
+
+---
+
+## ✈️ TravelLoop
+
+AI-powered travel planning platform with smart itineraries and budgeting.
+
+### Tech Stack
+TypeScript • React • AI APIs
+
+---
+
+# 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,redux,tailwind,bootstrap,git,github,docker,kubernetes,linux,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,redux,tailwind,bootstrap,docker,kubernetes,git,github,linux,postman,vscode" />
 </p>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dhikondagopi&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhikondagopi&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api?username=dhikondagopi&show_icons=true&theme=github_dark&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikondagopi&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhikondagopi&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikondagopi&layout=compact&theme=github_dark&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Graph
 
-[![Dhikonda Gopi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=dhikondagopi&theme=tokyo-night)](https://github.com/dhikondagopi)
-
----
-
-## 🏆 Coding Profiles
-
-- 🟡 LeetCode
-- 🟢 HackerRank
-- 🟢 GeeksforGeeks
-- 🔴 TopCoder
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhikondagopi&theme=github-dark" />
+</p>
 
 ---
 
-## 🎯 2026 Goals
+# 🎯 2026 Goals
 
-- Solve 500+ DSA Problems
-- Master System Design
-- Become an Expert MERN Developer
-- Contribute to Open Source
-- Land a Software Engineer Role
+✅ Solve 500+ DSA Problems
+
+✅ Build 10+ Production-Level Projects
+
+✅ Contribute to Open Source
+
+✅ Master System Design
+
+✅ Become a Software Engineer
 
 ---
 
-### ⚡ Fun Fact
+# ⚡ Fun Fact
 
 ```cpp
 while(!success)
@@ -138,4 +191,12 @@ while(!success)
 }
 ```
 
-⭐ From [Dhikonda Gopi](https://github.com/dhikondagopi)
+---
+
+<h3 align="center">
+⭐ Thanks for visiting my profile ⭐
+</h3>
+
+<h4 align="center">
+🚀 Keep Learning • Keep Building • Keep Growing
+</h4>
