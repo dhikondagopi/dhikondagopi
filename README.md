@@ -1,85 +1,55 @@
 <h1 align="center">Hi 👋, I'm Dhikonda Gopi</h1>
 
 <h3 align="center">
-🚀 Cybersecurity Undergraduate | MERN Stack Developer | Full Stack Developer | Open Source Enthusiast
+🚀 Cybersecurity Undergraduate | MERN Stack Developer | Full Stack Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dhikondagopi&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="views" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/dhikondagopi">
-    <img src="https://github-profile-trophy.vercel.app/?username=dhikondagopi&theme=algolia&no-frame=true&row=2&column=4" alt="trophies"/>
-  </a>
+<img src="https://komarev.com/ghpvc/?username=dhikondagopi&style=for-the-badge" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 B.Tech in Cybersecurity at **Parul University**
+🎓 B.Tech Cybersecurity Student at Parul University
 
-💻 Passionate about:
-- Full Stack Development
-- Cybersecurity
-- AI-Powered Applications
-- Open Source Contributions
+💻 MERN Stack Developer
+
+🛡️ Cybersecurity Enthusiast
 
 🌱 Currently Learning:
-- Advanced MERN Stack
 - Data Structures & Algorithms
 - System Design
 - Cloud Computing
+- Advanced MERN Stack
+- Application Security
 
-🚀 Goal:
-- Crack Product-Based Companies
-- Become a Full Stack Engineer
-- Contribute to Open Source
+📫 Email:
+dhikondagopi404@gmail.com
 
-📫 Reach me at:
-
-**dhikondagopinaidu@gmail.com**
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/gopidhikonda1/" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
-</a>
-
-<a href="mailto:dhikondagopinaidu@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
-</a>
-
-<a href="https://github.com/dhikondagopi" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" width="60"/>
-</a>
-
-</p>
+🌐 Portfolio:
+https://gopidhikondaportfolio.netlify.app/
 
 ---
 
-# 🏆 Coding Profiles
+## 🏆 Coding Profiles
 
 <p align="center">
 
-<a href="https://leetcode.com/u/dhikondagopi/" target="_blank">
+<a href="https://leetcode.com/u/dhikondagopi/">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/dhikondagopinai1" target="_blank">
+<a href="https://www.hackerrank.com/profile/dhikondagopinai1">
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
-<a href="https://www.geeksforgeeks.org/user/dhikondagc84y/" target="_blank">
+<a href="https://www.geeksforgeeks.org/user/dhikondagc84y/">
 <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
 </a>
 
-<a href="https://www.topcoder.com/members/522415" target="_blank">
+<a href="https://www.topcoder.com/members/522415">
 <img src="https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white"/>
 </a>
 
@@ -87,100 +57,68 @@
 
 ---
 
-# 🚀 Featured Projects
-
-## 🎤 InterviewX
-
-AI-powered interview preparation platform helping students practice technical and HR interviews.
-
-### Tech Stack
-React • Node.js • Express • MongoDB
-
----
-
-## 🌐 UpLink
-
-Professional networking and collaboration platform for students and developers.
-
-### Tech Stack
-React • Node.js • MongoDB • Tailwind CSS
-
----
-
-## 🍽️ Restaurant Website
-
-Responsive restaurant management and ordering system.
-
-### Tech Stack
-React • JavaScript • CSS
-
----
-
-## 🛡️ AI Honeypot CyberHive
-
-AI-powered cybersecurity honeypot for attack detection and analysis.
-
-### Tech Stack
-Python • Flask • AI • Security Monitoring
-
----
-
-## ✈️ TravelLoop
-
-AI-powered travel planning platform with smart itineraries and budgeting.
-
-### Tech Stack
-TypeScript • React • AI APIs
-
----
-
-# 💻 Tech Stack
+## 💻 Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript,html,css,react,nextjs,nodejs,express,mongodb,mysql,redux,tailwind,bootstrap,docker,kubernetes,git,github,linux,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,tailwind,redux,docker,kubernetes,git,github,linux,postman,vscode" />
 </p>
 
 ---
 
-# 📊 GitHub Statistics
+## 🛡️ Cybersecurity Interests
+
+- Web Application Security
+- Network Security
+- Vulnerability Assessment
+- Penetration Testing
+- Security Automation
+- AI Security
+
+---
+
+## 📚 Currently Learning
+
+- Advanced DSA
+- MERN Stack
+- System Design
+- Cloud Security
+- DevOps Fundamentals
+
+---
+
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dhikondagopi&show_icons=true&theme=github_dark&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhikondagopi&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikondagopi&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dhikondagopi&theme=github-dark-blue&hide_border=true" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikondagopi&layout=compact&theme=github_dark&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=dhikondagopi&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhikondagopi&theme=github-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhikondagopi&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🎯 2026 Goals
+## 🎯 2026 Goals
 
-✅ Solve 500+ DSA Problems
-
-✅ Build 10+ Production-Level Projects
-
-✅ Contribute to Open Source
-
-✅ Master System Design
-
-✅ Become a Software Engineer
+- Solve 500+ DSA Problems
+- Master MERN Stack
+- Build Production-Level Projects
+- Contribute to Open Source
+- Become a Software Engineer
 
 ---
 
-# ⚡ Fun Fact
+### ⚡ Fun Fact
 
 ```cpp
 while(!success)
@@ -191,12 +129,4 @@ while(!success)
 }
 ```
 
----
-
-<h3 align="center">
-⭐ Thanks for visiting my profile ⭐
-</h3>
-
-<h4 align="center">
-🚀 Keep Learning • Keep Building • Keep Growing
-</h4>
+⭐ Keep Learning • Keep Building • Keep Growing
