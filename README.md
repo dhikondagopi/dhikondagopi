@@ -1,70 +1,181 @@
 <!-- ========================================================= -->
-<!--                     ANIMATED HEADER                        -->
+<!--                    DEVELOPER OS v1.0                      -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563EB,100:06B6D4&height=220&section=header&text=Dhikonda%20Gopi&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cybersecurity%20Enthusiast%20|%20AI%2FML%20Learner&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Cybersecurity+Enthusiast;AI%2FML+Learner;Building+Enterprise+Applications;Open+to+Software+Engineering+Roles+🚀" />
-
-</a>
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=dhikondagopi&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
-
-[![GitHub followers](https://img.shields.io/github/followers/dhikondagopi?style=for-the-badge&color=8b5cf6&label=Followers)](https://github.com/dhikondagopi)
-
-[![GitHub Stars](https://img.shields.io/github/stars/dhikondagopi?style=for-the-badge&color=f59e0b&label=Stars)](https://github.com/dhikondagopi)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2500&pause=1200&color=00F7FF&center=true&vCenter=true&width=1000&lines=BOOTING+DEVELOPER+OPERATING+SYSTEM...;INITIALIZING+AI+MODULE...;LOADING+FULL+STACK+ENGINEER...;SYSTEM+ONLINE+✔" />
 
 </div>
 
 ---
 
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> About Me
+<div align="center">
 
-````cpp
-class Gopi {
+```text
+╔════════════════════════════════════════════════════════════╗
+║                                                            ║
+║              ⚡ DEVELOPER OPERATING SYSTEM ⚡              ║
+║                                                            ║
+║              USER      : DHIKONDA GOPI                     ║
+║              VERSION   : 2.0.0                             ║
+║              STATUS    : 🟢 ONLINE                         ║
+║              LOCATION  : INDIA                             ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
 
-public:
+</div>
 
-string name = "Dhikonda Gopi";
+---
 
-string degree = "B.Tech Computer Science (Cyber Security)";
+# > whoami
 
-string university = "Parul University";
+```bash
+$ whoami
 
-int graduation = 2027;
+Name            : Dhikonda Gopi
 
-vector<string> interests = {
+Role            : Full Stack Developer
 
-"MERN Stack",
+University      : Parul University
 
-"Cyber Security",
+Degree          : B.Tech CSE (Cyber Security)
 
-"Artificial Intelligence",
+Graduation      : 2027
 
-"Machine Learning",
+Status          : Building Enterprise Applications
 
-"System Design"
+Learning        : AI • Machine Learning • System Design
 
-};
+Goal            : Software Engineer
+```
 
-string currentlyBuilding = "AssetFlow Enterprise ERP";
+---
 
-string currentlyLearning =
+# > system_status
 
-"AI/ML • DSA • System Design";
+```text
+██████████████████████████████
 
-string dreamCompany =
+🟢 SYSTEM STATUS : ONLINE
 
-"Google | Microsoft | Amazon | Atlassian";
+⚡ CPU        : MERN STACK
 
-};
+🛡 SECURITY   : CYBER SECURITY
+
+🤖 AI ENGINE  : ACTIVE
+
+🚀 PROJECTS   : BUILDING
+
+📚 LEARNING   : AI/ML
+
+██████████████████████████████
+```
+
+---
+
+# > current_mission
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 Build enterprise-grade applications
+
+🛡 Learn advanced Cyber Security
+
+🤖 Explore Artificial Intelligence
+
+💻 Become a Product Software Engineer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# > loading_skills
+
+```text
+React.js            ████████████████░░░░ 85%
+
+Node.js             ███████████████░░░░░ 82%
+
+MongoDB             █████████████░░░░░░░ 80%
+
+Express.js          ██████████████░░░░░░ 81%
+
+C++                 ██████████████░░░░░░ 83%
+
+Cyber Security      ████████████░░░░░░░░ 75%
+
+Artificial Intelligence
+                    █████████░░░░░░░░░░░ 60%
+
+Machine Learning    ████████░░░░░░░░░░░░ 55%
+```
+
+---
+
+# > currently_building
+
+```text
+╭────────────────────────────────────────────╮
+
+🚀 AssetFlow Enterprise ERP
+
+STATUS      : ACTIVE
+
+VERSION     : 2.0
+
+TECH STACK  :
+
+React
+
+Supabase
+
+TypeScript
+
+Tailwind CSS
+
+TanStack
+
+PostgreSQL
+
+──────────────────────────────────────────────
+
+🤖 InterviewX
+
+STATUS : ACTIVE
+
+──────────────────────────────────────────────
+
+🍱 FoodBridge
+
+STATUS : ACTIVE
+
+──────────────────────────────────────────────
+
+🛡 AI Honeypot
+
+STATUS : ACTIVE
+
+──────────────────────────────────────────────
+
+🌍 UpLink
+
+STATUS : ACTIVE
+
+╰────────────────────────────────────────────╯
+```
+
+---
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+
+### ⚡ Developer OS Running...
+
+</div>
+
+---
