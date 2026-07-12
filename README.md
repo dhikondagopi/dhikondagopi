@@ -1,132 +1,70 @@
-<h1 align="center">Hi 👋, I'm Dhikonda Gopi</h1>
+<!-- ========================================================= -->
+<!--                     ANIMATED HEADER                        -->
+<!-- ========================================================= -->
 
-<h3 align="center">
-🚀 Cybersecurity Undergraduate | MERN Stack Developer | Full Stack Enthusiast
-</h3>
+<div align="center">
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=dhikondagopi&style=for-the-badge" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563EB,100:06B6D4&height=220&section=header&text=Dhikonda%20Gopi&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Cybersecurity%20Enthusiast%20|%20AI%2FML%20Learner&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
 
----
+<a href="https://git.io/typing-svg">
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;MERN+Stack+Developer;Cybersecurity+Enthusiast;AI%2FML+Learner;Building+Enterprise+Applications;Open+to+Software+Engineering+Roles+🚀" />
 
-🎓 B.Tech Cybersecurity Student at Parul University
-
-💻 MERN Stack Developer
-
-🛡️ Cybersecurity Enthusiast
-
-🌱 Currently Learning:
-- Data Structures & Algorithms
-- System Design
-- Cloud Computing
-- Advanced MERN Stack
-- Application Security
-
-📫 Email:
-dhikondagopi404@gmail.com
-
-🌐 Portfolio:
-https://gopidhikondaportfolio.netlify.app/
-
----
-
-## 🏆 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/dhikondagopi/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
 </a>
 
-<a href="https://www.hackerrank.com/profile/dhikondagopinai1">
-<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
+<br>
 
-<a href="https://www.geeksforgeeks.org/user/dhikondagc84y/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
+![](https://komarev.com/ghpvc/?username=dhikondagopi&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
 
-<a href="https://www.topcoder.com/members/522415">
-<img src="https://img.shields.io/badge/TopCoder-29A8E0?style=for-the-badge&logo=topcoder&logoColor=white"/>
-</a>
+[![GitHub followers](https://img.shields.io/github/followers/dhikondagopi?style=for-the-badge&color=8b5cf6&label=Followers)](https://github.com/dhikondagopi)
 
-</p>
+[![GitHub Stars](https://img.shields.io/github/stars/dhikondagopi?style=for-the-badge&color=f59e0b&label=Stars)](https://github.com/dhikondagopi)
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN)
 
-## 💻 Tech Stack
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](YOUR_PORTFOLIO)
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,c,java,python,javascript,typescript,html,css,react,nodejs,express,mongodb,mysql,tailwind,redux,docker,kubernetes,git,github,linux,postman,vscode" />
-</p>
+</div>
 
 ---
 
-## 🛡️ Cybersecurity Interests
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32"> About Me
 
-- Web Application Security
-- Network Security
-- Vulnerability Assessment
-- Penetration Testing
-- Security Automation
-- AI Security
+````cpp
+class Gopi {
 
----
+public:
 
-## 📚 Currently Learning
+string name = "Dhikonda Gopi";
 
-- Advanced DSA
-- MERN Stack
-- System Design
-- Cloud Security
-- DevOps Fundamentals
+string degree = "B.Tech Computer Science (Cyber Security)";
 
----
+string university = "Parul University";
 
-## 📊 GitHub Statistics
+int graduation = 2027;
 
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhikondagopi&show_icons=true&theme=tokyonight&hide_border=true"/>
+vector<string> interests = {
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikondagopi&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
+"MERN Stack",
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=dhikondagopi&theme=tokyonight&hide_border=true"/>
-</p>
+"Cyber Security",
 
----
+"Artificial Intelligence",
 
-## 📈 Contribution Graph
+"Machine Learning",
 
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dhikondagopi&theme=tokyo-night"/>
-</p>
+"System Design"
 
----
+};
 
-## 🎯 2026 Goals
+string currentlyBuilding = "AssetFlow Enterprise ERP";
 
-- Solve 500+ DSA Problems
-- Master MERN Stack
-- Build Production-Level Projects
-- Contribute to Open Source
-- Become a Software Engineer
+string currentlyLearning =
 
----
+"AI/ML • DSA • System Design";
 
-### ⚡ Fun Fact
+string dreamCompany =
 
-```cpp
-while(!success)
-{
-    learn();
-    build();
-    improve();
-}
-```
+"Google | Microsoft | Amazon | Atlassian";
 
-⭐ Keep Learning • Keep Building • Keep Growing
+};
