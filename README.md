@@ -219,43 +219,6 @@ GRANTED
 
 ---
 
-# 🏢 AssetFlow ERP
-
-> Enterprise Asset Management Platform
-
-### Overview
-
-AssetFlow is a modern Enterprise Resource Planning (ERP) platform that helps organizations manage physical assets, employee allocations, maintenance, bookings, transfers, reporting, and analytics from a centralized dashboard.
-
----
-
-### Core Modules
-
-```text
-📦 Asset Management
-
-🏢 Organization Management
-
-👨‍💼 Employee Management
-
-🔄 Asset Allocation
-
-↔ Asset Transfer
-
-📅 Resource Booking
-
-🔧 Maintenance Requests
-
-📊 Reports & Analytics
-
-🔔 Notifications
-
-📜 Activity Logs
-
-👤 Role-Based Access Control
-```
-
----
 
 ### Technology Stack
 
