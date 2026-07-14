@@ -1,1 +1,87 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 250" width="850" height="250">
+  <defs>
+    <filter id="radar-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <radialGradient id="radar-sweep" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect width="100%" height="100%" fill="#05050A"/>
+
+  <!-- Background Data Grid -->
+  <g stroke="#1A1A24" stroke-width="1">
+    <!-- Horizontal lines -->
+    <line x1="0" y1="50" x2="850" y2="50"/>
+    <line x1="0" y1="100" x2="850" y2="100"/>
+    <line x1="0" y1="150" x2="850" y2="150"/>
+    <line x1="0" y1="200" x2="850" y2="200"/>
+    <!-- Vertical lines -->
+    <line x1="212" y1="0" x2="212" y2="250"/>
+    <line x1="425" y1="0" x2="425" y2="250"/>
+    <line x1="637" y1="0" x2="637" y2="250"/>
+  </g>
+
+  <!-- Concentric Radar Rings -->
+  <g transform="translate(425, 125)" stroke="#00F0FF" fill="none">
+    <circle cx="0" cy="0" r="40" stroke-opacity="0.3"/>
+    <circle cx="0" cy="0" r="80" stroke-opacity="0.2"/>
+    <circle cx="0" cy="0" r="120" stroke-opacity="0.4" stroke-dasharray="10 5"/>
+    <circle cx="0" cy="0" r="160" stroke-opacity="0.1"/>
+    
+    <!-- Crosshairs -->
+    <line x1="-180" y1="0" x2="180" y2="0" stroke-opacity="0.3"/>
+    <line x1="0" y1="-180" x2="0" y2="180" stroke-opacity="0.3"/>
+  </g>
+
+  <!-- Radar Sweep -->
+  <g transform="translate(425, 125)">
+    <path d="M 0 0 L 160 0 A 160 160 0 0 1 0 160 Z" fill="url(#radar-sweep)" opacity="0.4">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="4s" repeatCount="indefinite"/>
+    </path>
+  </g>
+
+  <!-- Network Nodes & Blips -->
+  <g filter="url(#radar-glow)">
+    <!-- Node 1 -->
+    <circle cx="480" cy="60" r="4" fill="#B026FF">
+      <animate attributeName="opacity" values="0;1;0" dur="4s" begin="0.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="490" y="64" font-family="monospace" font-size="10" fill="#B026FF">ENC_NODE_X</text>
+
+    <!-- Node 2 -->
+    <circle cx="340" cy="180" r="4" fill="#00F0FF">
+      <animate attributeName="opacity" values="0;1;0" dur="4s" begin="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="245" y="184" font-family="monospace" font-size="10" fill="#00F0FF">TRAFFIC_INBOUND</text>
+    
+    <!-- Node 3 -->
+    <circle cx="520" cy="190" r="3" fill="#B026FF">
+      <animate attributeName="opacity" values="0;1;0" dur="4s" begin="3.8s" repeatCount="indefinite"/>
+    </circle>
+    <text x="530" y="194" font-family="monospace" font-size="10" fill="#B026FF">SECURE_TUNNEL</text>
+  </g>
+
+  <!-- Sidebar HUD Text -->
+  <g font-family="monospace" font-size="12" fill="#8892B0">
+    <text x="20" y="30">[RADAR_MONITOR: ACTIVE]</text>
+    <text x="20" y="50">SYSTEM_DEFENSE: OPTIMAL</text>
+    <text x="20" y="230">FREQ: 144.05 MHz</text>
+    
+    <text x="670" y="30">[NETWORK_STATUS]</text>
+    <text x="670" y="50" fill="#00F0FF">0 THREATS DETECTED</text>
+    <text x="670" y="230">FIREWALL: ENABLED</text>
+  </g>
+
+  <!-- Scanning Line Overlay -->
+  <rect x="0" y="0" width="850" height="2" fill="#00F0FF" opacity="0.3" filter="url(#radar-glow)">
+    <animate attributeName="y" from="0" to="250" dur="6s" repeatCount="indefinite"/>
+  </rect>
+</svg>
