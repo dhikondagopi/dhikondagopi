@@ -1,1 +1,48 @@
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 150" width="850" height="150">
+  <defs>
+    <filter id="particle-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  
+  <rect width="100%" height="100%" fill="none"/>
+  
+  <g filter="url(#particle-glow)">
+    <!-- Cyan Particles -->
+    <circle cx="100" cy="160" r="1.5" fill="#00F0FF" opacity="0">
+      <animate attributeName="cy" from="160" to="-10" dur="5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="250" cy="160" r="2.5" fill="#00F0FF" opacity="0">
+      <animate attributeName="cy" from="160" to="-10" dur="7s" begin="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.5;0" dur="7s" begin="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="550" cy="160" r="2" fill="#00F0FF" opacity="0">
+      <animate attributeName="cy" from="160" to="-10" dur="4s" begin="1.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.9;0" dur="4s" begin="1.5s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="780" cy="160" r="1" fill="#00F0FF" opacity="0">
+      <animate attributeName="cy" from="160" to="-10" dur="6s" begin="0.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.6;0" dur="6s" begin="0.5s" repeatCount="indefinite"/>
+    </circle>
+
+    <!-- Purple Particles -->
+    <circle cx="150" cy="160" r="2" fill="#B026FF" opacity="0">
+      <animate attributeName="cy" from="160" to="-10" dur="6s" begin="1s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.7;0" dur="6s" begin="1s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="350" cy="160" r="1.5" fill="#B026FF" opacity="0">
+      <animate attributeName="cy" from="160" to="-10" dur="5s" begin="3s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0" dur="5s" begin="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="650" cy="160" r="3" fill="#B026FF" opacity="0">
+      <animate attributeName="cy" from="160" to="-10" dur="8s" begin="2.5s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.4;0" dur="8s" begin="2.5s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+</svg>
