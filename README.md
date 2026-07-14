@@ -406,34 +406,3 @@ or collaborate on exciting projects.
 Let's build something amazing together.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-<div align="center">
-
-### ⭐ If you like my work, consider giving a ⭐ to my repositories.
-
-<img src="./footer.svg" width="100%" alt="Footer"/>
-
-</div>
-
----
-
-
----
-
-
-# > quote
-
-<div align="center">
-
-## 💻
-
-> **"Great software isn't built by writing more code.  
-> It's built by solving the right problems."**
-
-</div>
-
----
-
