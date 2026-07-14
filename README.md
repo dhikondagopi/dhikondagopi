@@ -92,21 +92,6 @@ STATUS:
 
 ---
 
-# > mission
-
-> I enjoy building **real-world software** that solves practical problems through modern web technologies, AI, and cybersecurity.
-
-Currently focused on:
-
-- 🚀 Enterprise Software
-- ☕ Smart Cafe Management
-- 🤖 AI Automation
-- 🔐 Cyber Security
-- 📊 Dashboards
-- ☁ Cloud Applications
-- ⚡ Full Stack Development
-
----
 
 
 # > system --skills
@@ -219,6 +204,212 @@ GRANTED
 <div align="center">
 
 ### 💻 Always Learning • Always Building • Always Improving
+
+</div>
+
+---
+
+# > ls projects
+
+<div align="center">
+
+<img src="./project-erp.svg" width="100%" alt="AssetFlow ERP"/>
+
+</div>
+
+---
+
+# 🏢 AssetFlow ERP
+
+> Enterprise Asset Management Platform
+
+### Overview
+
+AssetFlow is a modern Enterprise Resource Planning (ERP) platform that helps organizations manage physical assets, employee allocations, maintenance, bookings, transfers, reporting, and analytics from a centralized dashboard.
+
+---
+
+### Core Modules
+
+```text
+📦 Asset Management
+
+🏢 Organization Management
+
+👨‍💼 Employee Management
+
+🔄 Asset Allocation
+
+↔ Asset Transfer
+
+📅 Resource Booking
+
+🔧 Maintenance Requests
+
+📊 Reports & Analytics
+
+🔔 Notifications
+
+📜 Activity Logs
+
+👤 Role-Based Access Control
+```
+
+---
+
+### Technology Stack
+
+<div align="center">
+
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+![](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+![](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+![](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+### Features
+
+- ✅ Enterprise Dashboard
+- ✅ Asset Tracking
+- ✅ Department Management
+- ✅ Booking System
+- ✅ Maintenance Workflow
+- ✅ Audit Logs
+- ✅ Notifications
+- ✅ Reports
+- ✅ Role-Based Authentication
+- ✅ Responsive UI
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhikondagopi/Assest_flow-main)
+
+<!-- Replace with your deployed URL when available -->
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0A84FF?style=for-the-badge&logo=vercel)](YOUR_LIVE_URL)
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+<img src="./project-cafepos.svg" width="100%" alt="CafePOS"/>
+
+</div>
+
+---
+
+# ☕ CafePOS
+
+> AI Powered Cafe Management Platform
+
+### Overview
+
+CafePOS is an intelligent point-of-sale system built for cafés and restaurants to streamline ordering, billing, inventory, employee management, customer engagement, and business analytics.
+
+---
+
+### Modules
+
+```text
+☕
+
+Customer Orders
+
+💳
+
+Billing & Payments
+
+📦
+
+Inventory Management
+
+👨‍🍳
+
+Kitchen Dashboard
+
+👨‍💼
+
+Employee Management
+
+📈
+
+Sales Analytics
+
+📅
+
+Reservations
+
+🎁
+
+Loyalty Programs
+
+🤖
+
+AI Business Insights
+```
+
+---
+
+### Technology Stack
+
+<div align="center">
+
+![](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+![](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+![](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+
+</div>
+
+---
+
+### Features
+
+- ☕ Smart Order Management
+- 📦 Inventory Tracking
+- 💳 Billing System
+- 👥 Employee Management
+- 📊 Business Analytics
+- 🤖 AI Recommendations
+- 📱 Responsive Design
+- ⚡ Fast Performance
+- 🔒 Secure Authentication
+
+---
+
+<div align="center">
+
+<!-- Replace with your actual repository -->
+[![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhikondagopi)
+
+<!-- Replace with your deployed URL -->
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0A84FF?style=for-the-badge&logo=vercel)](YOUR_LIVE_URL)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 More exciting projects are currently under development...
 
 </div>
 
