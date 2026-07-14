@@ -207,21 +207,6 @@ STATUS:
 
 ---
 
-### Features
-
-- ✅ Enterprise Dashboard
-- ✅ Asset Tracking
-- ✅ Department Management
-- ✅ Booking System
-- ✅ Maintenance Workflow
-- ✅ Audit Logs
-- ✅ Notifications
-- ✅ Reports
-- ✅ Role-Based Authentication
-- ✅ Responsive UI
-
----
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github)](https://github.com/dhikondagopi/Assest_flow-main)
