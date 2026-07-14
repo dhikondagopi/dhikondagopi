@@ -228,57 +228,6 @@ STATUS:
 
 ---
 
-# ☕ CafePOS
-
-> AI Powered Cafe Management Platform
-
-### Overview
-
-CafePOS is an intelligent point-of-sale system built for cafés and restaurants to streamline ordering, billing, inventory, employee management, customer engagement, and business analytics.
-
----
-
-### Modules
-
-```text
-☕
-
-Customer Orders
-
-💳
-
-Billing & Payments
-
-📦
-
-Inventory Management
-
-👨‍🍳
-
-Kitchen Dashboard
-
-👨‍💼
-
-Employee Management
-
-📈
-
-Sales Analytics
-
-📅
-
-Reservations
-
-🎁
-
-Loyalty Programs
-
-🤖
-
-AI Business Insights
-```
-
----
 
 ### Technology Stack
 
@@ -298,19 +247,6 @@ AI Business Insights
 
 ---
 
-### Features
-
-- ☕ Smart Order Management
-- 📦 Inventory Tracking
-- 💳 Billing System
-- 👥 Employee Management
-- 📊 Business Analytics
-- 🤖 AI Recommendations
-- 📱 Responsive Design
-- ⚡ Fast Performance
-- 🔒 Secure Authentication
-
----
 
 <div align="center">
 
