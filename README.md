@@ -322,63 +322,7 @@ srcset="https://raw.githubusercontent.com/dhikondagopi/dhikondagopi/output/githu
 
 ---
 
-# > current_status
 
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-SYSTEM STATUS
-
-🟢 ONLINE
-
-CURRENT PROJECT
-
-🏢 AssetFlow Enterprise ERP
-
-NEXT PROJECT
-
-☕ CafePOS AI Platform
-
-CURRENT LEARNING
-
-Artificial Intelligence
-
-Machine Learning
-
-System Design
-
-Backend Architecture
-
-GOAL
-
-Software Engineer
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# > achievements
-
-```text
-✓ Enterprise ERP Development
-
-✓ MERN Stack Projects
-
-✓ AI Integration
-
-✓ Cyber Security Learning
-
-✓ Full Stack Development
-
-✓ Database Design
-
-✓ REST API Development
-
-✓ Modern UI Development
-```
-
----
 
 # > connect
 
@@ -407,34 +351,6 @@ Software Engineer
 </div>
 
 ---
-
-# > system_information
-
-```yaml
-Developer:
-  Dhikonda Gopi
-
-Role:
-  Full Stack Developer
-
-University:
-  Parul University
-
-Department:
-  Computer Science (Cyber Security)
-
-Interested In:
-  - Full Stack Development
-  - Artificial Intelligence
-  - Cyber Security
-  - Enterprise Software
-
-Open To:
-  - Software Engineer Internships
-  - Full Time Opportunities
-  - Open Source Collaboration
-```
-
 ---
 
 <div align="center">
