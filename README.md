@@ -167,37 +167,6 @@ STATUS:
 
 </div>
 
----
-
-# > terminal
-
-```bash
-$ whoami
-
-Dhikonda Gopi
-
-$ role
-
-Full Stack Developer
-
-$ focus
-
-Cyber Security
-Artificial Intelligence
-MERN Stack
-Enterprise Software
-
-$ current_status
-
-Designing scalable applications
-Building AI powered platforms
-Learning System Design
-Preparing for Product Companies
-
-$ access
-
-GRANTED
-```
 
 ---
 
