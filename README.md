@@ -377,78 +377,6 @@ leave a ⭐ on my repositories.
 
 ---
 
-# > developer_console
-
-```bash
-$ developer --status
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-👤 USER            : Dhikonda Gopi
-
-🟢 STATUS          : ONLINE
-
-💻 ROLE            : Full Stack Developer
-
-🛡 SPECIALIZATION  : Cyber Security
-
-🤖 AI ENGINE       : ACTIVE
-
-🚀 CURRENT BUILD   : AssetFlow ERP
-
-☕ NEXT BUILD      : CafePOS
-
-📚 LEARNING        : Artificial Intelligence
-
-🏆 TARGET          : Software Engineer
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# > roadmap
-
-```text
-2025
-│
-├── Learn MERN Stack ✅
-├── Build Full Stack Projects ✅
-├── Learn Cyber Security ✅
-│
-2026
-│
-├── Build Enterprise ERP 🚀
-├── Build CafePOS 🚀
-├── Learn AI/ML 🚀
-├── Master System Design
-│
-2027
-│
-├── Crack Product Companies
-├── Software Engineer
-├── Open Source Contributions
-└── Build Startup
-```
-
----
-
-# > currently_learning
-
-<div align="center">
-
-| Technology | Progress |
-|------------|----------|
-| MERN Stack | ████████████████████ 100% |
-| TypeScript | █████████████████░░ 85% |
-| AI / ML | ████████████░░░░░░░ 60% |
-| System Design | ██████████░░░░░░░░ 50% |
-| Docker | █████████████░░░░░░ 70% |
-| Kubernetes | ███████░░░░░░░░░░░ 35% |
-
-</div>
-
----
 
 # > operating_environment
 
@@ -467,30 +395,6 @@ $ developer --status
 </div>
 
 ---
-
-# > fun_fact
-
-```text
-while(alive){
-
-    Learn();
-
-    Build();
-
-    Debug();
-
-    Ship();
-
-    Repeat();
-
-}
-```
-
----
-
-# > visitor_message
-
-```text
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Thanks for visiting my GitHub profile.
@@ -519,53 +423,6 @@ Let's build something amazing together.
 
 ---
 
-# > system_services
-
-```text
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-RUNNING SERVICES
-
-🟢 Portfolio Engine             ONLINE
-
-🟢 GitHub API                   CONNECTED
-
-🟢 AI Learning Engine           ACTIVE
-
-🟢 MERN Development             RUNNING
-
-🟢 Cyber Security Lab           ACTIVE
-
-🟢 AssetFlow ERP                DEPLOYED
-
-🟢 CafePOS                      IN DEVELOPMENT
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-
-# > terminal
-
-```bash
-$ status
-
-Developer ............. Online
-
-Projects .............. 2 Active
-
-Repositories .......... Growing
-
-Coffee ................ Loading...
-
-Learning .............. AI + System Design
-
-Target ................ Software Engineer
-
-$ exit
-```
-
----
 
 # > quote
 
