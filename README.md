@@ -603,3 +603,286 @@ If you like my work,
 leave a ⭐ on my repositories.
 
 </div>
+
+
+
+---
+
+# > developer_console
+
+```bash
+$ developer --status
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👤 USER            : Dhikonda Gopi
+
+🟢 STATUS          : ONLINE
+
+💻 ROLE            : Full Stack Developer
+
+🛡 SPECIALIZATION  : Cyber Security
+
+🤖 AI ENGINE       : ACTIVE
+
+🚀 CURRENT BUILD   : AssetFlow ERP
+
+☕ NEXT BUILD      : CafePOS
+
+📚 LEARNING        : Artificial Intelligence
+
+🏆 TARGET          : Software Engineer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# > roadmap
+
+```text
+2025
+│
+├── Learn MERN Stack ✅
+├── Build Full Stack Projects ✅
+├── Learn Cyber Security ✅
+│
+2026
+│
+├── Build Enterprise ERP 🚀
+├── Build CafePOS 🚀
+├── Learn AI/ML 🚀
+├── Master System Design
+│
+2027
+│
+├── Crack Product Companies
+├── Software Engineer
+├── Open Source Contributions
+└── Build Startup
+```
+
+---
+
+# > currently_learning
+
+<div align="center">
+
+| Technology | Progress |
+|------------|----------|
+| MERN Stack | ████████████████████ 100% |
+| TypeScript | █████████████████░░ 85% |
+| AI / ML | ████████████░░░░░░░ 60% |
+| System Design | ██████████░░░░░░░░ 50% |
+| Docker | █████████████░░░░░░ 70% |
+| Kubernetes | ███████░░░░░░░░░░░ 35% |
+
+</div>
+
+---
+
+# > operating_environment
+
+<div align="center">
+
+![](https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows)
+
+![](https://img.shields.io/badge/Linux-Kali-000000?style=for-the-badge&logo=kalilinux)
+
+![](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![](https://img.shields.io/badge/API-Postman-FF6C37?style=for-the-badge&logo=postman)
+
+![](https://img.shields.io/badge/Git-Git-F05032?style=for-the-badge&logo=git)
+
+</div>
+
+---
+
+# > fun_fact
+
+```text
+while(alive){
+
+    Learn();
+
+    Build();
+
+    Debug();
+
+    Ship();
+
+    Repeat();
+
+}
+```
+
+---
+
+# > visitor_message
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Thanks for visiting my GitHub profile.
+
+Feel free to explore my repositories,
+connect with me,
+or collaborate on exciting projects.
+
+Let's build something amazing together.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a ⭐ to my repositories.
+
+<img src="./footer.svg" width="100%" alt="Footer"/>
+
+</div>
+
+---
+
+
+---
+
+# > system_services
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+RUNNING SERVICES
+
+🟢 Portfolio Engine             ONLINE
+
+🟢 GitHub API                   CONNECTED
+
+🟢 AI Learning Engine           ACTIVE
+
+🟢 MERN Development             RUNNING
+
+🟢 Cyber Security Lab           ACTIVE
+
+🟢 AssetFlow ERP                DEPLOYED
+
+🟢 CafePOS                      IN DEVELOPMENT
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# > terminal
+
+```bash
+$ status
+
+Developer ............. Online
+
+Projects .............. 2 Active
+
+Repositories .......... Growing
+
+Coffee ................ Loading...
+
+Learning .............. AI + System Design
+
+Target ................ Software Engineer
+
+$ exit
+```
+
+---
+
+# > quote
+
+<div align="center">
+
+## 💻
+
+> **"Great software isn't built by writing more code.  
+> It's built by solving the right problems."**
+
+</div>
+
+---
+
+# > connect
+
+<div align="center">
+
+<a href="https://github.com/dhikondagopi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_LEETCODE">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## Thanks for visiting my profile ❤️
+
+If you like my work,
+
+⭐ Star my repositories
+
+🤝 Connect with me
+
+🚀 Let's build something amazing together
+
+</div>
+
+---
+
+# > shutdown
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+Saving Session...
+
+Disconnecting AI Core...
+
+Stopping Background Services...
+
+Logging Activity...
+
+Session Saved Successfully.
+
+Developer OS v3.0
+
+STATUS : OFFLINE
+
+Goodbye 👋
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+<div align="center">
+
+<img src="./footer.svg" width="100%" alt="Developer Footer"/>
+
+</div>
+
+---
