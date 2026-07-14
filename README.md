@@ -414,3 +414,192 @@ AI Business Insights
 </div>
 
 ---
+
+# > analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=dhikondagopi&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=FFFFFF"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhikondagopi&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=FFFFFF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=dhikondagopi&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dhikondagopi&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=dhikondagopi&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<picture>
+
+<source media="(prefers-color-scheme: dark)"
+srcset="https://raw.githubusercontent.com/dhikondagopi/dhikondagopi/output/github-contribution-grid-snake-dark.svg"/>
+
+<source media="(prefers-color-scheme: light)"
+srcset="https://raw.githubusercontent.com/dhikondagopi/dhikondagopi/output/github-contribution-grid-snake.svg"/>
+
+<img src="https://raw.githubusercontent.com/dhikondagopi/dhikondagopi/output/github-contribution-grid-snake-dark.svg"/>
+
+</picture>
+
+</div>
+
+---
+
+# > current_status
+
+```text
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+SYSTEM STATUS
+
+🟢 ONLINE
+
+CURRENT PROJECT
+
+🏢 AssetFlow Enterprise ERP
+
+NEXT PROJECT
+
+☕ CafePOS AI Platform
+
+CURRENT LEARNING
+
+Artificial Intelligence
+
+Machine Learning
+
+System Design
+
+Backend Architecture
+
+GOAL
+
+Software Engineer
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+```
+
+---
+
+# > achievements
+
+```text
+✓ Enterprise ERP Development
+
+✓ MERN Stack Projects
+
+✓ AI Integration
+
+✓ Cyber Security Learning
+
+✓ Full Stack Development
+
+✓ Database Design
+
+✓ REST API Development
+
+✓ Modern UI Development
+```
+
+---
+
+# > connect
+
+<div align="center">
+
+<a href="https://github.com/dhikondagopi">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+</div>
+
+---
+
+# > system_information
+
+```yaml
+Developer:
+  Dhikonda Gopi
+
+Role:
+  Full Stack Developer
+
+University:
+  Parul University
+
+Department:
+  Computer Science (Cyber Security)
+
+Interested In:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Cyber Security
+  - Enterprise Software
+
+Open To:
+  - Software Engineer Internships
+  - Full Time Opportunities
+  - Open Source Collaboration
+```
+
+---
+
+<div align="center">
+
+### ⚡ "Build. Learn. Ship. Repeat."
+
+<img src="./footer.svg" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+If you like my work,
+
+leave a ⭐ on my repositories.
+
+</div>
