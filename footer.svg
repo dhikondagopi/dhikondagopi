@@ -1,1 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 120" width="850" height="120">
+  <defs>
+    <filter id="terminal-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
 
+  <rect width="100%" height="100%" fill="#05050A"/>
+  
+  <!-- Dashed Border -->
+  <rect x="5" y="5" width="840" height="110" fill="none" stroke="#1A1A24" stroke-width="1.5" stroke-dasharray="10 5"/>
+
+  <!-- Terminal Connection Prompt -->
+  <g font-family="monospace" font-size="18" fill="#00F0FF">
+    <text x="40" y="65" filter="url(#terminal-glow)">> ssh root@dhikonda-gopi.dev -p 2222</text>
+    
+    <!-- Blinking Cursor -->
+    <rect x="420" y="50" width="12" height="20" fill="#00F0FF">
+      <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+  
+  <text x="40" y="95" font-family="monospace" font-size="12" fill="#B026FF">CONNECTION ESTABLISHED. READY FOR TRANSMISSION...</text>
+
+  <!-- Network indicators right side -->
+  <g fill="#1A1A24">
+    <rect x="790" y="30" width="15" height="4"/>
+    <rect x="790" y="40" width="15" height="4"/>
+    <rect x="790" y="50" width="15" height="4"/>
+    <rect x="790" y="60" width="15" height="4"/>
+    <rect x="790" y="70" width="15" height="4"/>
+    <rect x="790" y="80" width="15" height="4"/>
+    
+    <rect x="790" y="30" width="15" height="4" fill="#00F0FF" filter="url(#terminal-glow)">
+      <animate attributeName="y" values="30;80;30" dur="1.5s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+</svg>
