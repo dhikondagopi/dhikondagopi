@@ -107,3 +107,119 @@ Currently focused on:
 - ⚡ Full Stack Development
 
 ---
+
+
+# > system --skills
+
+<div align="center">
+
+<img src="./hud.svg" width="100%" alt="Cyber HUD"/>
+
+</div>
+
+---
+
+## ⚡ TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,react,nodejs,express,mongodb,supabase,mysql,html,css,tailwind,git,github,vscode,linux,docker,postman&perline=10"/>
+
+</div>
+
+---
+
+## > loaded_modules
+
+```text
+[████████████████████████] C++               90%
+
+[██████████████████████░░] JavaScript        88%
+
+[█████████████████████░░░] React             87%
+
+[████████████████████░░░░] Node.js           84%
+
+[████████████████████░░░░] Express.js        84%
+
+[███████████████████░░░░░] MongoDB           82%
+
+[███████████████████░░░░░] Supabase          82%
+
+[██████████████████░░░░░░] Python            80%
+
+[█████████████████░░░░░░░] Docker            75%
+
+[█████████████████░░░░░░░] Linux             75%
+
+```
+
+---
+
+# > technology_matrix
+
+| Frontend | Backend | Database | AI / ML | Cyber Security | DevOps |
+|-----------|----------|----------|----------|----------------|---------|
+| React | Node.js | MongoDB | Python | Kali Linux | Docker |
+| Tailwind CSS | Express.js | Supabase | Gemini AI | Networking | GitHub |
+| HTML5 | REST API | MySQL | APIs | Linux | Vercel |
+
+---
+
+## ⚙ Development Environment
+
+<div align="center">
+
+![](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+![](https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows)
+
+![](https://img.shields.io/badge/Linux-Kali-000000?style=for-the-badge&logo=kalilinux)
+
+![](https://img.shields.io/badge/API-Postman-FF6C37?style=for-the-badge&logo=postman)
+
+![](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git)
+
+</div>
+
+---
+
+# > terminal
+
+```bash
+$ whoami
+
+Dhikonda Gopi
+
+$ role
+
+Full Stack Developer
+
+$ focus
+
+Cyber Security
+Artificial Intelligence
+MERN Stack
+Enterprise Software
+
+$ current_status
+
+Designing scalable applications
+Building AI powered platforms
+Learning System Design
+Preparing for Product Companies
+
+$ access
+
+GRANTED
+```
+
+---
+
+<div align="center">
+
+### 💻 Always Learning • Always Building • Always Improving
+
+</div>
+
+---
