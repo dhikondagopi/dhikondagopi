@@ -1,4 +1,4 @@
-<!-- ========================= HERO ========================= -->
+q<!-- ========================= HERO ========================= -->
 
 <div align="center">
 
@@ -332,19 +332,19 @@ srcset="https://raw.githubusercontent.com/dhikondagopi/dhikondagopi/output/githu
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/gopidhikonda1/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:dhikondagopinaidu@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://leetcode.com/YOUR_USERNAME">
+<a href="[https://leetcode.com/YOUR_USERNAME](https://leetcode.com/u/dhikondagopi/)">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="https://YOUR_PORTFOLIO_URL">
+<a href="[https://YOUR_PORTFOLIO_URL](https://gopidhikondaportfolio.netlify.app/)">
 <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=googlechrome"/>
 </a>
 
@@ -377,24 +377,6 @@ leave a ⭐ on my repositories.
 
 ---
 
-
-# > operating_environment
-
-<div align="center">
-
-![](https://img.shields.io/badge/OS-Windows_11-0078D6?style=for-the-badge&logo=windows)
-
-![](https://img.shields.io/badge/Linux-Kali-000000?style=for-the-badge&logo=kalilinux)
-
-![](https://img.shields.io/badge/Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
-
-![](https://img.shields.io/badge/API-Postman-FF6C37?style=for-the-badge&logo=postman)
-
-![](https://img.shields.io/badge/Git-Git-F05032?style=for-the-badge&logo=git)
-
-</div>
-
----
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 Thanks for visiting my GitHub profile.
