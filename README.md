@@ -332,7 +332,7 @@ srcset="https://raw.githubusercontent.com/dhikondagopi/dhikondagopi/output/githu
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/gopidhikonda1/)">
+<a href="(https://www.linkedin.com/in/gopidhikonda1/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -340,11 +340,11 @@ srcset="https://raw.githubusercontent.com/dhikondagopi/dhikondagopi/output/githu
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="[https://leetcode.com/YOUR_USERNAME](https://leetcode.com/u/dhikondagopi/)">
+<a href="(https://leetcode.com/u/dhikondagopi/)">
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 </a>
 
-<a href="[https://YOUR_PORTFOLIO_URL](https://gopidhikondaportfolio.netlify.app/)">
+<a href="(https://gopidhikondaportfolio.netlify.app/)">
 <img src="https://img.shields.io/badge/Portfolio-00F5FF?style=for-the-badge&logo=googlechrome"/>
 </a>
 
