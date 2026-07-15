@@ -377,14 +377,3 @@ leave a ⭐ on my repositories.
 
 ---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-Thanks for visiting my GitHub profile.
-
-Feel free to explore my repositories,
-connect with me,
-or collaborate on exciting projects.
-
-Let's build something amazing together.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
